@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES NACIONAIS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SELEÇÃO DOS MELHORES FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia601409.us.archive.org/4/items/nacionais_20200105/NACIONAIS.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/rpmtecmais/rpmtecmais/master/SELECIONADOS</externallink>
 <fanart>https://ia801408.us.archive.org/10/items/mcu_20200105/Netflix.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - MELHORES FILMES NACIONAIS - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[/COLOR] - SÓ OS MELHORES FILMES - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
